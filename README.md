@@ -44,7 +44,7 @@
 - **Languages**:
     
     ![Java](https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=Java&logoColor=white)
-    ![Javascript](https://img.shields.io/badge/Javascript-512BD4.svg?style=for-the-badge&logo=Javascript&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 <br>   
     
