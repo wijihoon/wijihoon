@@ -9,10 +9,8 @@
 
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
@@ -41,41 +39,60 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![Java](https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=Java&logoColor=white)
-    ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-<br>   
-    
+- **Back-End Development**:
+
+  ![Java](https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=Java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
+  ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+  ![JPA](https://img.shields.io/badge/JPA-A5915F.svg?style=for-the-badge&logo=JPA&logoColor=white)
+  ![mybatis](https://img.shields.io/badge/mybatis-A5915F.svg?style=for-the-badge&logo=mybatis&logoColor=white)
+  ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
+  ![db2](https://img.shields.io/badge/db2-4479A1.svg?style=for-the-badge&logo=db2&logoColor=white)
+  ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+  ![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+ 
+  <br>
+
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?style=for-the-badge&logo=JQuery&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+  ![axios](https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+  ![mobx](https://img.shields.io/badge/mobx-FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white)
+  ![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
     
+
 <br>
 
-- **Softwares and Tools**:
+- **DevOps**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![amazonaws](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![jeus](https://img.shields.io/badge/jeus-005F0F?style=for-the-badge&logo=jeus&logoColor=white)
+  ![WebTobe](https://img.shields.io/badge/WebTobe-005F0F?style=for-the-badge&logo=WebTobe&logoColor=white)
+  ![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+  ![anylink](https://img.shields.io/badge/anylink-%23054020?style=for-the-badge&logo=anylink&logoColor=white)
+  ![ERwin](https://img.shields.io/badge/ERwin-%23054020?style=for-the-badge&logo=ERwin&logoColor=white)
+  ![Devon](https://img.shields.io/badge/Devon-%23054020?style=for-the-badge&logo=Devon&logoColor=white)
+  ![IFramework](https://img.shields.io/badge/IFramework-%23054020?style=for-the-badge&logo=IFramework&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 </p>
@@ -128,7 +145,7 @@
 <img src="https://img.shields.io/badge/gmail:  wijihoon-%23EA4335.svg?style=for-the-badge&logo=naver&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
 </ul>
 </div>
 
