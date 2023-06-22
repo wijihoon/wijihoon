@@ -17,11 +17,21 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+저는 ______ 엔지니어입니다.
+
+1. 반복 업무를 개선하기 위해 고민하는
+2. 좋은 코드와 지속 가능한 코드를 고민하는
+3. 사용자/요청자 니즈를 분석하기 위해 고민하는
+4. 업무 프로세스 그리고 이를 뒷받침하는 조직 문화에 관심이 많은
+5. 선택한 길에 대한 고민으로 보낸 시간은 무엇보다 값지다고 생각하는
+
+저는 ______ 조직을 선호합니다.
+
+1. 투명한 의사결정이 이루어지고 공유되는
+2. 구성원 간 신뢰를 기반으로 자율적으로 일하는
+3. 불필요한 커뮤니케이션을 줄여 효율적으로 움직이는
+4. 하는 일이 조직의 밸류 체인에서 어떠한 임팩트를 갖는지 고민하는
+5. 기술이 비즈니스의 핵심 동력이며 제 코드가 비즈니스에 도움이 될 수 있는
 
 <br><br>
 
