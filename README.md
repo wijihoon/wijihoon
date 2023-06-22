@@ -44,9 +44,8 @@
 - **Languages**:
     
     ![Java](https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=Java&logoColor=white)
-    ![javascript](https://github.com/wijihoon/wijihoon/assets/76634761/bd6a4f13-26f7-4be3-9f13-1925506863ae)
-    ![python](https://github.com/wijihoon/wijihoon/assets/76634761/52242cca-17f9-4712-9e86-d201e0d2168d)
-
+    ![Javascript](https://img.shields.io/badge/Javascript-%232370ED.svg?style=for-the-badge&logo=Javascript&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-%232370ED.svg?style=for-the-badge&logo=Python&logoColor=white)
 <br>   
     
 - **Front-End Development**:
