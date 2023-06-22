@@ -1,4 +1,3 @@
-![javascript](https://github.com/wijihoon/wijihoon/assets/76634761/b920c2b6-9431-4c82-a402-cc0cb71ae89f)
 <h1 align="center"><b>Hi , I'm Jihoon Wi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
