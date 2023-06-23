@@ -99,13 +99,14 @@
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdvMGx3cmplaXc2Z3RtaHozMWl3ZjZpa3NxYjI1cTNjazFiZWM2bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VGUxZZPz33xqyqDlUF/giphy.gif" width="35" align='left'><b align='left'> Baekjoon </b>
 
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wijihoon123)](https://solved.ac/wijihoon123)
-</div>
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
