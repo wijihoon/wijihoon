@@ -16,9 +16,6 @@
 3. 불필요한 커뮤니케이션을 줄여 효율적으로 움직이는
 4. 하는 일이 조직의 밸류 체인에서 어떠한 임팩트를 갖는지 고민하는
 5. 기술이 비즈니스의 핵심 동력이며 제 코드가 비즈니스에 도움이 될 수 있는
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -40,8 +37,6 @@
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
   ![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-  <br>
-
 - **Front-End Development**:
 
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,9 +47,6 @@
   ![axios](https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
   ![mobx](https://img.shields.io/badge/mobx-FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white)
   ![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
-
-
-<br>
 
 - **DevOps**:
 
@@ -71,8 +63,6 @@
   ![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
-<br>
-
 - **Extras**:
 
   ![anylink](https://img.shields.io/badge/anylink-%23054020?style=for-the-badge&logo=anylink&logoColor=white)
@@ -81,11 +71,7 @@
   ![IFramework](https://img.shields.io/badge/IFramework-%23054020?style=for-the-badge&logo=IFramework&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
 </p>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -96,8 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wijihoon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wijihoon&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="wijihoon"/>
 </a>
-<br>
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
 
@@ -107,7 +91,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wijihoon123)](https://solved.ac/wijihoon123)
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -123,8 +106,6 @@
 </a>
 </li>
 
-
-<br>
 <li>
 <a href="mailto:wijihoon123@naver.com" target="_blank">
 <img src="https://img.shields.io/badge/naver:  wijihoon-%03C75A.svg?style=for-the-badge&logo=naver&logoColor=white" t=mail style="margin-bottom: 5px;" />
