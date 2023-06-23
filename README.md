@@ -86,7 +86,7 @@
 
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -97,7 +97,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wijihoon&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="wijihoon"/>
 </a>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdvMGx3cmplaXc2Z3RtaHozMWl3ZjZpa3NxYjI1cTNjazFiZWM2bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VGUxZZPz33xqyqDlUF/giphy.gif" width="35"><b> Baekjoon </b>
 
 <br>
@@ -105,7 +105,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wijihoon123)](https://solved.ac/wijihoon123)
 </div>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -128,5 +128,3 @@
 
 </ul>
 </div>
-
----
