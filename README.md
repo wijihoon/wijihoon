@@ -16,6 +16,12 @@
 3. 불필요한 커뮤니케이션을 줄여 효율적으로 움직이는
 4. 하는 일이 조직의 밸류 체인에서 어떠한 임팩트를 갖는지 고민하는
 5. 기술이 비즈니스의 핵심 동력이며 제 코드가 비즈니스에 도움이 될 수 있는
+
+- **Career**:
+- SHINHAN CARD : 2023-01 ~ ing
+- HANKOOK CAPITAL : 2021-06 ~ 2022-12
+- WOORI FINANCIAL CAPITAL : 2019-09 ~ 2021-06
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
